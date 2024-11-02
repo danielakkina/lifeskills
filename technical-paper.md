@@ -18,7 +18,6 @@
 - Load balancing is a key technique used to improve the performance and scalability of a system. It involves distributing all incoming requests to multiple servers to avoid the load from a single server.
 - This can improve the performance and availability of a system. The load balancer is act as a mediator between the client and server to control the load on the servers.
 
-<center><img src="loadbalancer.png" width="500" height="300"></center>
                 
 - There are two types of load balancers:
      
@@ -32,8 +31,6 @@
 - Vertical scaling involves increasing the resources of a single server by adding more memory, CPU, or hard disk space. 
 - This technic quickly improves the performance of a  server, but it is limited to some extent.
 
-<center><img src="vertical.png" width="500" height="400"></center>
-
 - Again there is a possibility of upgrading to more powerful hardware. 
 - Due to only one server there is a risk if the server fails due to heavy load. 
 
@@ -41,8 +38,6 @@
 
 - Horizontal scaling involves adding more servers to a system so that the load can be shared to multiple servers. 
 - This approach is more flexible and scalable and also improves the overall performance and availability of a system.
-
-<center><img src="horizontal.png" width="500" height="300"></center>
 
 - Due to multiple servers there is less risk if any server fails.
 - It is very helpful to scale down when the clients get reduced and also cost reduces.
