@@ -1,4 +1,4 @@
-# Learning Techniques and Dr. Barbara Oakley's Story
+
 
 ## 1. What is the Feynman Technique?
 
